@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="31px" viewBox="0 0 22 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>cd-icon-location</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cd-icon-location">
+            <path d="M11,0 L11,6.65515114 C13.5999893,6.65515114 15.7154646,8.94238125 15.7154646,11.7548838 C15.7154646,14.5667489 13.5999893,16.8546165 11,16.8546165 L11,31 L19.6310685,19.2642402 C21.180688,17.1446638 22,14.5973473 22,11.8964014 C22,5.33687024 17.0652663,0 11,0 Z" id="Path" fill="#CD2A00"></path>
+            <path d="M16,12 C16,9.2425 13.756875,7 11,7 L11,17 C13.756875,17 16,14.756875 16,12 Z" id="Path" fill="#D8D7DA"></path>
+            <path d="M6.28453542,11.7548838 C6.28453542,8.94238125 8.40001072,6.65515114 11,6.65515114 L11,0 C4.93473368,0 0,5.33687024 0,11.8964014 C0,14.5973473 0.819311971,17.1446638 2.37128925,19.26679 L11,31 L11,16.8546165 C8.40001072,16.8546165 6.28453542,14.5667489 6.28453542,11.7548838 Z" id="Path" fill="#FF3501"></path>
+            <path d="M6,12 C6,14.756875 8.243125,17 11,17 L11,7 C8.243125,7 6,9.2425 6,12 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
